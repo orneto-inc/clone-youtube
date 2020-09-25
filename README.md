@@ -16,7 +16,7 @@ TECHNOLOGY & TOOLS USED:
 	-gitHub
 	-VSCode
 	
-
+Resourcess Used: https://www.youtube.com/watch?v=NT299zIk2JY
 
 
 CONTACT:
