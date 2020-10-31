@@ -9,9 +9,9 @@ DESCRIPTION:
 TECHNOLOGY & TOOLS USED:
 	-HTML
 	-CSS
-  -React.js
-  -React-Router
-  -Material-UI
+	-React.js
+	-React-Router
+	-Material-UI
 	-git (CLI)
 	-gitHub
 	-VSCode
